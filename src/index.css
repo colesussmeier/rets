@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#search {
+  background-color: rgb(220, 241, 241);
+  width: 10%;
+  height: 20%;
+  margin: 0 auto;
+}
+
+#chart {
+  background-color: rgb(195, 167, 221);
+  width: 80%;
+  height: 40%;
+  padding: 0% 10% 0% 10%;
+  
+}

@@ -1,25 +1,53 @@
-import logo from './logo.svg';
-import './App.css';
+import LineChart from "./components/LineChart";
+import React, {useState} from "react";
+
 
 function App() {
+
+  const [input, setInput] = useState("");
+
+  let locations = [
+    {name: "cold spring, NY 10516", zip: '10516'},
+    {name: "bing", zip: '13901'},
+    {name: "beverly", zip: '90210'}
+  ];
+
+  const handleChange = (e) => {
+    e.preventDefault();
+    setInput(e.target.value);
+  }
+
+  if(input.length > 0) {
+    locations = locations.filter((i) => {
+      return (i.name.match(input)); //|| i.zip.match(input));   // do full name in single var
+    })
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div id="search">
+        <input 
+          type="text"
+          placeholder="Search locations"
+          onChange={handleChange}
+          value={input}/>
+        {locations.map((location, index) => {
+          return (
+            <div key={index}>
+              <ul>
+                <li>
+                  {location.name} - {location.zip}
+                </li> 
+              </ul>
+            </div>
+          )
+        })}
+      </div>
+    <div id="chart"> 
+      <LineChart/>
     </div>
-  );
+  </div>
+  )  
 }
 
 export default App;

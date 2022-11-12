@@ -1,0 +1,659 @@
+[
+    {
+      "Date": "2016-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 490839,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 490114,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 491218,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 491620,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 491917,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 491065,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2016-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 491600,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 492641,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-02-28",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 495941,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 502767,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 508023,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 510291,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 505755,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 501868,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 499139,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 497452,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 497662,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 497989,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2017-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 501172,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 505660,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-02-28",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 510722,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 514090,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 518394,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 519392,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 522929,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525161,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 529437,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 531961,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 534407,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 533642,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2018-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 533502,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 528369,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-02-28",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525091,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 522512,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525427,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 527718,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 526853,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 526150,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525847,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 527588,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525984,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 524438,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2019-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 521318,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 519065,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-02-29",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 519493,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 525817,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 524390,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 519058,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 512188,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 515626,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 523468,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 532092,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 540549,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 546920,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2020-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 549808,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 551613,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-02-28",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 554657,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 560644,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 568315,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 577891,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 585170,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-07-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 591706,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-08-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 595909,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-09-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 601641,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-10-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 605029,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-11-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 608621,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2021-12-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 612254,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-01-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 617946,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-02-28",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 626825,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-03-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 631162,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-04-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 639596,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-05-31",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 644617,
+      "Location": "Cold Spring NY"
+    },
+    {
+      "Date": "2022-06-30",
+      "ZipCode": 10516,
+      "SizeRank": 12511,
+      "Metro": "New York-Newark-Jersey City",
+      "CountyName": "Putnam County",
+      "ZHVI": 653814,
+      "Location": "Cold Spring NY"
+    }
+  ]

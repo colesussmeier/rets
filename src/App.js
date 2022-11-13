@@ -1,55 +1,28 @@
-import LineChart from "./components/LineChart";
-import React, {useState} from "react";
+import React from "react";
 import Navbar from "./components/Navbar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import About from "./components/About";
+import Blog from "./components/Blog";
+import ErrorPage from "./components/ErrorPage";
+import Home from "./components/Home";
 
 
 function App() {
 
-  const [input, setInput] = useState("");
-
-  let locations = [
-    {name: "cold spring, NY 10516", zip: '10516'},
-    {name: "bing", zip: '13901'},
-    {name: "bev", zip: '90210'}
-  ];
-
-  const handleChange = (e) => {
-    e.preventDefault();
-    setInput(e.target.value);
-  }
-
-  if(input.length > 0) {
-    locations = locations.filter((i) => {
-      return (i.name.match(input)); //|| i.zip.match(input));   // do full name in single var
-    })
-  }
-
   return (
     <div>
       <Navbar/>
-      <div id="search">
-        <input 
-          type="text"
-          id="searchbar"
-          placeholder="Search locations"
-          onChange={handleChange}
-          value={input}/>
-        {locations.map((location, index) => {
-          return (
-            <div key={index}>
-              <ul>
-                <li>
-                  {location.name} - {location.zip}
-                </li> 
-              </ul>
-            </div>
-          )
-        })}
-      </div>
-    <div id="chart"> 
-      <LineChart/>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="" element={<Home/>} />
+        <Route path="/Home" element={<Home/>} />
+        <Route path="/About" element={<About/>} />
+        <Route path="/Blog" element={<Blog/>} />
+        <Route path="*" element={<ErrorPage/>} />
+      </Routes>
+    </Router>
     </div>
-  </div>
   )  
 }
 

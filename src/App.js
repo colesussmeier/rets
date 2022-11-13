@@ -1,5 +1,6 @@
 import LineChart from "./components/LineChart";
 import React, {useState} from "react";
+import Navbar from "./components/Navbar";
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
   let locations = [
     {name: "cold spring, NY 10516", zip: '10516'},
     {name: "bing", zip: '13901'},
-    {name: "beverly", zip: '90210'}
+    {name: "bev", zip: '90210'}
   ];
 
   const handleChange = (e) => {
@@ -25,9 +26,11 @@ function App() {
 
   return (
     <div>
+      <Navbar/>
       <div id="search">
         <input 
           type="text"
+          id="searchbar"
           placeholder="Search locations"
           onChange={handleChange}
           value={input}/>

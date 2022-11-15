@@ -24,29 +24,34 @@ function Home() {
 
     return ( 
         <div>
-            <div id="search">
-                <input 
-                    type="text"
-                    id="searchbar"
-                    placeholder="Search locations"
-                    onChange={handleChange}
-                    value={input}/>
-                {locations.map((location, index) => {
-                return (
-                    <div key={index}>
-                        <ul>
-                            <li>
-                                {location.name} - {location.zip}
-                            </li> 
-                        </ul>
-                    </div>
-                )
-            })}
+            <div id="searchSpace">
+                <div id="search">
+                    <input 
+                        id="searchBar"
+                        size="24"
+                        type="text"
+                        placeholder="Search locations"
+                        onChange={handleChange}
+                        value={input}/>
+                    {locations.map((location, index) => {
+                        return (
+                            <div key={index} id="searchResults">
+                                <ul>
+                                    <li>
+                                        {location.name} - {location.zip}
+                                    </li> 
+                                </ul>
+                            </div>
+                         )
+                        })} 
+                </div>
+            </div>
+            <div id="chartSpace">
+                <div id="chart"> 
+                    <LineChart/>
+                </div>
+            </div>   
         </div>
-        <div id="chart"> 
-            <LineChart/>
-        </div>
-    </div>
     )
 }
 

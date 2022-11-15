@@ -2,10 +2,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: rgb(52, 68, 160);
-    padding: 25px 25px;
+    background: rgba(52, 68, 160,1);
+    padding: 5px 25px;
     box-shadow: 0 5 px 15 px rgba(0, 0, 0, 0.6);
-    height: 50px;
 }
 
 #navbar {
@@ -47,11 +46,11 @@ nav {
         align-items: flex-start;
         justify-content: flex-start;
         position: fixed;
-        top: 100px;
+        top: 10%;
         right: -500px;
         width: 150px;
         height: 100vh;
-        background: rgb(189, 224, 159);
+        background: rgb(170, 181, 240);
         box-shadow: 0 40px 60px rgba(0,0,0,0.1);
         padding: 50px 0 0 10px;
         transition: 0.3s ease-in-out;

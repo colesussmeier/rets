@@ -29,6 +29,8 @@ ChartJS.register(
 export const options = {
   scaleShowValues: true,
   responsive: true,
+  mainAspectRatio: false,
+  aspectRatio: 1.5,
   scales: {
     xAxes: [{
       ticks: {
@@ -42,7 +44,7 @@ export const options = {
     },
     title: {
       display: true,
-      text: 'Chart.js Line Chart',
+      text: 'Zillow Home Value Index',
     },
   },
 };
@@ -64,7 +66,7 @@ export const data = {
   labels,
   datasets: [
     {
-      label: 'Dataset 1',
+      label: 'ZHVI',
       data: zhvi,
       borderColor: 'rgb(255, 99, 132)',
       backgroundColor: 'rgba(255, 99, 132, 0.5)',

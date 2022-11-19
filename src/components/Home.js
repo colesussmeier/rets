@@ -1,26 +1,22 @@
 import React, {useState } from "react";
 import LineChart from "./LineChart";
+var locations = require("./locations.json")
 
 function Home() {
 
     const [input, setInput] = useState("");
 
-    let locations = [
-      {name: "cold spring, NY 10516", zip: '10516'},
-      {name: "bing", zip: '13901'},
-      {name: "bev", zip: '90210'}
-    ];
   
     const handleChange = (e) => {
       e.preventDefault();
       setInput(e.target.value);
-    }
-  
-    if(input.length > 0) {
-      locations = locations.filter((i) => {
-        return (i.name.match(input)); //|| i.zip.match(input));   // do full name in single var
-      })
-    }
+    };
+
+    const onSearch = (searchTerm) => {
+        setInput(searchTerm);
+        // our api to fetch the search result
+        console.log("search ", searchTerm);
+      };
 
     return ( 
         <div>
@@ -33,17 +29,29 @@ function Home() {
                         placeholder="Search locations"
                         onChange={handleChange}
                         value={input}/>
-                    {locations.map((location, index) => {
-                        return (
-                            <div key={index} id="searchResults">
-                                <ul>
-                                    <li>
-                                        {location.name} - {location.zip}
-                                    </li> 
-                                </ul>
-                            </div>
-                         )
-                        })} 
+
+                    <button onClick={() => onSearch(input)}> Search </button>
+                
+                    <div id="dropdown">
+                        {locations.filter(item => {
+                            const searchTerm = input.toLowerCase();
+                            const location = item.Location.toLowerCase();
+
+                            return (
+                                searchTerm && 
+                                location.startsWith(searchTerm) &&
+                                Location !== searchTerm
+                            );
+                        })
+                        .slice(0, 10)
+                        .map((item) => ( 
+                            <div className="dropdown-row"
+                            onClick={() => onSearch(item.Location)}
+                            key={item.ZipCode}
+                            >
+                                {item.Location}  
+                            </div>))}
+                    </div>
                 </div>
             </div>
             <div id="chartSpace">

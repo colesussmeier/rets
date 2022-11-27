@@ -10,6 +10,17 @@
       "StackName": "amplify-rets-dev-145632",
       "StackId": "arn:aws:cloudformation:us-east-1:529445671024:stack/amplify-rets-dev-145632/1bd30640-62c4-11ed-998f-0af0b5fda68b",
       "AmplifyAppId": "d3uz8uz4kchpoe"
+    },
+    "categories": {
+      "function": {
+        "retsfunction": {
+          "deploymentBucketName": "amplify-rets-dev-145632-deployment",
+          "s3Key": "amplify-builds/retsfunction-7971696777644e643636-build.zip"
+        }
+      },
+      "api": {
+        "retsapi": {}
+      }
     }
   }
 }

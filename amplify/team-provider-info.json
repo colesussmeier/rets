@@ -15,7 +15,7 @@
       "function": {
         "retsfunction": {
           "deploymentBucketName": "amplify-rets-dev-145632-deployment",
-          "s3Key": "amplify-builds/retsfunction-6d314667663845544f75-build.zip"
+          "s3Key": "amplify-builds/retsfunction-2f38554e73446e4d6e65-build.zip"
         }
       },
       "api": {

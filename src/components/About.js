@@ -4,6 +4,9 @@ import React, { useState } from 'react'
 const myAPI = "retsapi"
 const path = '/zips'; 
 
+let labels = []
+let zhvi = []
+
 const About = () => {
   const [input, setInput] = useState("")
   const [zips, setzips] = useState([])
@@ -17,11 +20,20 @@ const About = () => {
          let newzips = [...zips]
          newzips.push(response)
          setzips(newzips)
-
+         fillData(newzips[0])
        })
        .catch(error => {
          console.log(error)
        })
+  }
+
+
+
+  function fillData(payload) {
+    for (const obj of payload) {
+      labels.push(obj.Date);
+      zhvi.push(obj.ZHVI)
+    }
   }
 
   return (
@@ -35,15 +47,10 @@ const About = () => {
       <button onClick={() => getzip({input})}>Get zip From Backend</button>
 
       <h2 style={{visibility: zips.length > 0 ? 'visible' : 'hidden' }}>Response</h2>
-      {
-       zips.map((thiszip, index) => {
-         return (
-        <div key={thiszip.zip}>
-          <span><b>zip:</b> {thiszip.zip} - <b>zipName</b>: {thiszip.locationName}</span>
-        </div>)
-       })
-      }
-    </div>
+      
+      {zhvi.map(entry => <b key={entry}>{entry}</b>)}
+
+      </div>
   )
 }
 

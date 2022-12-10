@@ -82,16 +82,39 @@ export function LineChart() {
   labels = ts.labels;
   zhvi = ts.zhvi;
   
+  console.log(ts.name);
   const data = {
     labels,
     datasets: [
       {
-        label: 'ZHVI',
         data: zhvi,
-        borderColor: 'rgb(255, 99, 132)',
-        backgroundColor: 'rgba(255, 99, 132, 0.5)',
+        borderColor: 'rgba(52, 68, 160,0.5)',
+        backgroundColor: 'rgba(52, 68, 160,0.2)',
       },
     ],
+  };
+
+  const options = {
+    scaleShowValues: true,
+    responsive: true,
+    mainAspectRatio: false,
+    aspectRatio: 1.5,
+    scales: {
+      xAxes: [{
+        ticks: {
+          autoSkip: true
+        }
+      }]
+    },
+    plugins: {
+      legend: {
+        display: false,
+      },
+      title: {
+        display: true,
+        text: 'Zillow Home Value Index for ' + ts.name,
+      },
+    },
   };
 
   return <Line options={options} data={data} />;

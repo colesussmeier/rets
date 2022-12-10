@@ -1,15 +1,17 @@
 import React, { useState, useEffect, createContext } from "react";
 import LineChart from "./LineChart";
 import { API } from 'aws-amplify';
-var locations = require("./locations.json")
+var locations = require("../assets/locations.json")
 
 const myAPI = "retsapi";
 const path = '/zips'; 
 
 export const timeseries = createContext();
 
+
 const ts = {"labels": [],
-            "zhvi": []}
+            "zhvi": [],
+            "name": ""}
 
 function Home() {
 
@@ -19,6 +21,7 @@ function Home() {
 
     const [zips, setzips] = useState([]);
 
+
     useEffect(() => {
         try {
             ts.labels = []
@@ -27,6 +30,7 @@ function Home() {
                 ts.labels.push(obj.Date.slice(0,10));
                 ts.zhvi.push(obj.ZHVI);
             }
+
             setRender(true)
             }
         catch (e) {
@@ -42,6 +46,7 @@ function Home() {
 
     const onSearch = (searchTerm) => {
         setInput(searchTerm);
+        ts.name = searchTerm;
         setRender(false)
         let zip = searchTerm.slice(-5);
         API.get(myAPI, path + "/" + zip)
@@ -53,6 +58,8 @@ function Home() {
            .catch(error => {
              console.log(error)
            })
+
+           setInput("");
 
       };
 
@@ -98,7 +105,7 @@ function Home() {
                         {isRendered && <LineChart/>}
                     </timeseries.Provider>
                 </div>
-            </div>   
+            </div>  
         </div>
     )
 }

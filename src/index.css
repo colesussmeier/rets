@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "SilianRail";
+  src: local("SilianRail"),
+    url("./assets/SilianRail.otf") format("otf");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Silian Rail', 'Segoe UI', 'Roboto', 'Oxygen', 
@@ -7,19 +13,22 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
+
 #searchSpace {
   display: flex;
   justify-content: center;
-  background-color: rgb(220, 241, 241);
+  background-color: whitesmoke;
 }
 
 #search {
-  background-color: rgb(103, 231, 231);
+  background-color: rgb(236, 234, 234);
   text-align: center;
   padding: 0;
 }
@@ -42,7 +51,7 @@ li {
 }
 
 #chartSpace {
-  background-color: rgba(92, 0, 184, 0.37);
+  background-color: whitesmoke;
   display: flex;
   justify-content: center;
 }

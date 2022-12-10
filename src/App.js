@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Blog from "./components/Blog";
 import ErrorPage from "./components/ErrorPage";
+import "./assets/SilianRail.otf";
 
 function App() {
 

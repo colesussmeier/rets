@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -11,7 +11,9 @@ import {
 } from 'chart.js';
 import { Line } from 'react-chartjs-2';
 
-import cs from "./cs.json";
+import { timeseries } from './Home';
+
+
 
 
 
@@ -50,18 +52,18 @@ export const options = {
 };
 
 //const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
-
 let labels = []
 let zhvi = []
 
 
+/*
 for (const obj of cs) {
   labels.push(obj.Date);
   zhvi.push(obj.ZHVI)
 }
+*/
 
-console.log(labels)
-
+/*
 export const data = {
   labels,
   datasets: [
@@ -73,8 +75,25 @@ export const data = {
     },
   ],
 };
+*/
 
 export function LineChart() {
+  const ts = useContext(timeseries);
+  labels = ts.labels;
+  zhvi = ts.zhvi;
+  
+  const data = {
+    labels,
+    datasets: [
+      {
+        label: 'ZHVI',
+        data: zhvi,
+        borderColor: 'rgb(255, 99, 132)',
+        backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      },
+    ],
+  };
+
   return <Line options={options} data={data} />;
 }
 

@@ -30,6 +30,8 @@ const About = () => {
 
 
   function fillData(payload) {
+    labels = []
+    zhvi = []
     for (const obj of payload) {
       labels.push(obj.Date);
       zhvi.push(obj.ZHVI)

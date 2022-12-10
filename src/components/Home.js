@@ -1,10 +1,38 @@
-import React, {useState } from "react";
+import React, { useState, useEffect, createContext } from "react";
 import LineChart from "./LineChart";
+import { API } from 'aws-amplify';
 var locations = require("./locations.json")
+
+const myAPI = "retsapi";
+const path = '/zips'; 
+
+export const timeseries = createContext();
+
+const ts = {"labels": [],
+            "zhvi": []}
 
 function Home() {
 
     const [input, setInput] = useState("");
+
+    const [isRendered, setRender] = useState(false);
+
+    const [zips, setzips] = useState([]);
+
+    useEffect(() => {
+        try {
+            ts.labels = []
+            ts.zhvi = [] 
+             for (const obj of zips.slice(-1)[0]) {
+                ts.labels.push(obj.Date.slice(0,10));
+                ts.zhvi.push(obj.ZHVI);
+            }
+            setRender(true)
+            }
+        catch (e) {
+            console.log(e)
+        }
+    }, [zips]);
 
   
     const handleChange = (e) => {
@@ -14,8 +42,18 @@ function Home() {
 
     const onSearch = (searchTerm) => {
         setInput(searchTerm);
-        // our api to fetch the search result
-        console.log("search ", searchTerm);
+        setRender(false)
+        let zip = searchTerm.slice(-5);
+        API.get(myAPI, path + "/" + zip)
+           .then(response => {
+             let newzips = [...zips]
+             newzips.push(response)
+             setzips(newzips)
+           })
+           .catch(error => {
+             console.log(error)
+           })
+
       };
 
     return ( 
@@ -56,7 +94,9 @@ function Home() {
             </div>
             <div id="chartSpace">
                 <div id="chart"> 
-                    <LineChart/>
+                    <timeseries.Provider value = {ts}>
+                        {isRendered && <LineChart/>}
+                    </timeseries.Provider>
                 </div>
             </div>   
         </div>

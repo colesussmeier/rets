@@ -15,10 +15,11 @@
  
   exports.handler = function(event, context, callback) {
      context.callbackWaitsForEmptyEventLoop = false;
+     
      const zip = event.pathParameters.zip;
  
      pool.getConnection(function(err, connection) {
-         connection.query( "select Date, ZHVI from zhvi_processed where ZipCode = " + zip + ";", function (error, results, fields) {
+         connection.query( "select Date, ZHVI from zhvi_processed where ZipCode = '" + zip + "';", function (error, results, fields) {
          connection.release();
          if (error) {
              callback(error);

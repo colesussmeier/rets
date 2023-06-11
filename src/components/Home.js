@@ -29,7 +29,7 @@ function Home() {
              for (const obj of zips.slice(-1)[0]) {
                 ts.labels.push(obj.Date.slice(0,10));
                 ts.zhvi.push(obj.zhvi);
-                console.log(obj)
+                console.log(obj) 
             }
 
             setRender(true)

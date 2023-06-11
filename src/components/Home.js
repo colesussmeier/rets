@@ -28,7 +28,7 @@ function Home() {
             ts.zhvi = [] 
              for (const obj of zips.slice(-1)[0]) {
                 ts.labels.push(obj.Date.slice(0,10));
-                ts.zhvi.push(obj.ZHVI);
+                ts.zhvi.push(obj.zhvi);
             }
 
             setRender(true)

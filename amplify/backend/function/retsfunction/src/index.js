@@ -18,7 +18,7 @@
      context.callbackWaitsForEmptyEventLoop = false;
      
      const zip = event.pathParameters.zip;
- 
+  
      pool.getConnection(function(err, connection) {
          connection.query( `SELECT zhvi.Date, zhvi, MedianSalePrice, MedianListPrice, HomesSold, PendingSales, NewListings, Inventory
          FROM zhvi

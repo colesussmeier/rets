@@ -61,10 +61,43 @@ li {
   padding: 10px;
 }
 
-@media screen and (max-width: 769px) {
-  #chart {
-    width: 95%;
-    padding: 10px;
+@media screen and (min-width: 768px) {
+  #ChartDashboard {
+    position: relative;
+    justify-content: center;
+  }
 
+  #ZillowChart {
+    margin:auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    width: 60%;
+  }
+
+  #PriceChart {
+    width: 30%;
+    margin-right: 40px;
+    margin-left: -20px;
+  }
+  #MarketChart {
+    width: 30%;
   }
 }
+
+@media screen and (max-width: 767px) {
+  #ChartDashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #ZillowChart {
+    width: 100%;
+  }
+  #PriceChart {
+    width: 50%;
+  }
+  #MarketChart {
+    width: 100%;
+  }
+}
+

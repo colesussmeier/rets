@@ -81,6 +81,7 @@ export function LineChart() {
   const ts = useContext(timeseries);
   labels = ts.labels;
   zhvi = ts.zhvi;
+  console.log(labels);
   
   console.log(ts.name);
   const data = {

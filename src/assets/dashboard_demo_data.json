@@ -1,0 +1,2802 @@
+[
+    {
+      "Date": "2000-01-31",
+      "zhvi": 244477,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-02-29",
+      "zhvi": 248698,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-03-31",
+      "zhvi": 251198,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-04-30",
+      "zhvi": 256334,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-05-31",
+      "zhvi": 260216,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-06-30",
+      "zhvi": 262977,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-07-31",
+      "zhvi": 265247,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-08-31",
+      "zhvi": 265407,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-09-30",
+      "zhvi": 266544,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-10-31",
+      "zhvi": 267831,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-11-30",
+      "zhvi": 271886,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2000-12-31",
+      "zhvi": 276931,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-01-31",
+      "zhvi": 281335,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-02-28",
+      "zhvi": 284265,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-03-31",
+      "zhvi": 285637,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-04-30",
+      "zhvi": 287942,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-05-31",
+      "zhvi": 290045,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-06-30",
+      "zhvi": 293035,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-07-31",
+      "zhvi": 296320,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-08-31",
+      "zhvi": 300400,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-09-30",
+      "zhvi": 305103,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-10-31",
+      "zhvi": 309943,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-11-30",
+      "zhvi": 313626,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2001-12-31",
+      "zhvi": 317285,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-01-31",
+      "zhvi": 320553,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-02-28",
+      "zhvi": 323191,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-03-31",
+      "zhvi": 324580,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-04-30",
+      "zhvi": 327691,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-05-31",
+      "zhvi": 332279,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-06-30",
+      "zhvi": 337239,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-07-31",
+      "zhvi": 341025,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-08-31",
+      "zhvi": 345949,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-09-30",
+      "zhvi": 349711,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-10-31",
+      "zhvi": 352339,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-11-30",
+      "zhvi": 353406,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2002-12-31",
+      "zhvi": 354838,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-01-31",
+      "zhvi": 355184,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-02-28",
+      "zhvi": 355298,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-03-31",
+      "zhvi": 357429,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-04-30",
+      "zhvi": 360218,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-05-31",
+      "zhvi": 362503,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-06-30",
+      "zhvi": 363303,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-07-31",
+      "zhvi": 366782,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-08-31",
+      "zhvi": 372167,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-09-30",
+      "zhvi": 378382,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-10-31",
+      "zhvi": 383488,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-11-30",
+      "zhvi": 389582,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2003-12-31",
+      "zhvi": 396777,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-01-31",
+      "zhvi": 406596,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-02-29",
+      "zhvi": 416545,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-03-31",
+      "zhvi": 425692,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-04-30",
+      "zhvi": 431415,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-05-31",
+      "zhvi": 435093,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-06-30",
+      "zhvi": 439625,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-07-31",
+      "zhvi": 443764,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-08-31",
+      "zhvi": 448238,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-09-30",
+      "zhvi": 451984,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-10-31",
+      "zhvi": 455577,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-11-30",
+      "zhvi": 459111,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2004-12-31",
+      "zhvi": 461431,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-01-31",
+      "zhvi": 464782,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-02-28",
+      "zhvi": 467970,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-03-31",
+      "zhvi": 469659,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-04-30",
+      "zhvi": 474263,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-05-31",
+      "zhvi": 480911,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-06-30",
+      "zhvi": 489604,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-07-31",
+      "zhvi": 493623,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-08-31",
+      "zhvi": 495142,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-09-30",
+      "zhvi": 494340,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-10-31",
+      "zhvi": 496023,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-11-30",
+      "zhvi": 496959,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2005-12-31",
+      "zhvi": 499796,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-01-31",
+      "zhvi": 501561,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-02-28",
+      "zhvi": 505158,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-03-31",
+      "zhvi": 507254,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-04-30",
+      "zhvi": 509026,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-05-31",
+      "zhvi": 510460,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-06-30",
+      "zhvi": 513125,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-07-31",
+      "zhvi": 515124,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-08-31",
+      "zhvi": 514016,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-09-30",
+      "zhvi": 513824,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-10-31",
+      "zhvi": 512440,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-11-30",
+      "zhvi": 514130,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2006-12-31",
+      "zhvi": 510122,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-01-31",
+      "zhvi": 503541,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-02-28",
+      "zhvi": 497067,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-03-31",
+      "zhvi": 496235,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-04-30",
+      "zhvi": 497516,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-05-31",
+      "zhvi": 497043,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-06-30",
+      "zhvi": 495989,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-07-31",
+      "zhvi": 495091,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-08-31",
+      "zhvi": 494857,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-09-30",
+      "zhvi": 493490,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-10-31",
+      "zhvi": 491292,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-11-30",
+      "zhvi": 486862,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2007-12-31",
+      "zhvi": 483940,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-01-31",
+      "zhvi": 483648,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-02-29",
+      "zhvi": 484771,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-03-31",
+      "zhvi": 486655,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-04-30",
+      "zhvi": 487169,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-05-31",
+      "zhvi": 486652,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-06-30",
+      "zhvi": 482480,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-07-31",
+      "zhvi": 478709,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-08-31",
+      "zhvi": 476205,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-09-30",
+      "zhvi": 473752,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-10-31",
+      "zhvi": 471213,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-11-30",
+      "zhvi": 467390,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2008-12-31",
+      "zhvi": 463468,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-01-31",
+      "zhvi": 459692,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-02-28",
+      "zhvi": 457236,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-03-31",
+      "zhvi": 455483,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-04-30",
+      "zhvi": 450658,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-05-31",
+      "zhvi": 445647,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-06-30",
+      "zhvi": 440856,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-07-31",
+      "zhvi": 438641,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-08-31",
+      "zhvi": 435790,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-09-30",
+      "zhvi": 434619,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-10-31",
+      "zhvi": 433105,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-11-30",
+      "zhvi": 433202,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2009-12-31",
+      "zhvi": 435227,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-01-31",
+      "zhvi": 438073,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-02-28",
+      "zhvi": 439546,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-03-31",
+      "zhvi": 437141,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-04-30",
+      "zhvi": 436933,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-05-31",
+      "zhvi": 438447,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-06-30",
+      "zhvi": 441254,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-07-31",
+      "zhvi": 443158,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-08-31",
+      "zhvi": 445008,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-09-30",
+      "zhvi": 447050,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-10-31",
+      "zhvi": 447057,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-11-30",
+      "zhvi": 444121,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2010-12-31",
+      "zhvi": 438402,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-01-31",
+      "zhvi": 432932,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-02-28",
+      "zhvi": 430240,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-03-31",
+      "zhvi": 429786,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-04-30",
+      "zhvi": 428437,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-05-31",
+      "zhvi": 425524,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-06-30",
+      "zhvi": 421177,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-07-31",
+      "zhvi": 414529,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-08-31",
+      "zhvi": 407221,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-09-30",
+      "zhvi": 399096,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-10-31",
+      "zhvi": 394776,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-11-30",
+      "zhvi": 392298,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2011-12-31",
+      "zhvi": 390102,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-01-31",
+      "zhvi": 389239,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-02-29",
+      "zhvi": 387121,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-03-31",
+      "zhvi": 386557,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-04-30",
+      "zhvi": 383897,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-05-31",
+      "zhvi": 380868,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-06-30",
+      "zhvi": 378487,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-07-31",
+      "zhvi": 376922,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-08-31",
+      "zhvi": 376952,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-09-30",
+      "zhvi": 377608,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-10-31",
+      "zhvi": 378911,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-11-30",
+      "zhvi": 380322,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2012-12-31",
+      "zhvi": 382120,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-01-31",
+      "zhvi": 384381,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-02-28",
+      "zhvi": 387093,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-03-31",
+      "zhvi": 389081,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-04-30",
+      "zhvi": 389937,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-05-31",
+      "zhvi": 390737,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-06-30",
+      "zhvi": 391957,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-07-31",
+      "zhvi": 393934,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-08-31",
+      "zhvi": 395712,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-09-30",
+      "zhvi": 396349,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-10-31",
+      "zhvi": 397189,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-11-30",
+      "zhvi": 397578,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2013-12-31",
+      "zhvi": 398714,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-01-31",
+      "zhvi": 399980,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-02-28",
+      "zhvi": 402185,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-03-31",
+      "zhvi": 404682,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-04-30",
+      "zhvi": 407480,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-05-31",
+      "zhvi": 409249,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-06-30",
+      "zhvi": 410074,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-07-31",
+      "zhvi": 410144,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-08-31",
+      "zhvi": 410744,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-09-30",
+      "zhvi": 411520,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-10-31",
+      "zhvi": 412582,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-11-30",
+      "zhvi": 413130,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2014-12-31",
+      "zhvi": 413938,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-01-31",
+      "zhvi": 415280,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-02-28",
+      "zhvi": 417517,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-03-31",
+      "zhvi": 419429,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-04-30",
+      "zhvi": 420552,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-05-31",
+      "zhvi": 421615,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-06-30",
+      "zhvi": 423383,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2015-07-31",
+      "zhvi": 425465,
+      "MedianSalePrice": 417250,
+      "MedianListPrice": 579000,
+      "HomesSold": 22,
+      "PendingSales": 6,
+      "NewListings": 41,
+      "Inventory": 62
+    },
+    {
+      "Date": "2015-08-31",
+      "zhvi": 428194,
+      "MedianSalePrice": 436000,
+      "MedianListPrice": 557000,
+      "HomesSold": 28,
+      "PendingSales": 5,
+      "NewListings": 36,
+      "Inventory": 61
+    },
+    {
+      "Date": "2015-09-30",
+      "zhvi": 431978,
+      "MedianSalePrice": 481000,
+      "MedianListPrice": 499900,
+      "HomesSold": 30,
+      "PendingSales": 1,
+      "NewListings": 25,
+      "Inventory": 61
+    },
+    {
+      "Date": "2015-10-31",
+      "zhvi": 435713,
+      "MedianSalePrice": 517688,
+      "MedianListPrice": 519900,
+      "HomesSold": 22,
+      "PendingSales": 4,
+      "NewListings": 19,
+      "Inventory": 55
+    },
+    {
+      "Date": "2015-11-30",
+      "zhvi": 438839,
+      "MedianSalePrice": 534460,
+      "MedianListPrice": 522450,
+      "HomesSold": 24,
+      "PendingSales": 2,
+      "NewListings": 18,
+      "Inventory": 51
+    },
+    {
+      "Date": "2015-12-31",
+      "zhvi": 439766,
+      "MedianSalePrice": 550000,
+      "MedianListPrice": 512450,
+      "HomesSold": 25,
+      "PendingSales": 2,
+      "NewListings": 16,
+      "Inventory": 46
+    },
+    {
+      "Date": "2016-01-31",
+      "zhvi": 440580,
+      "MedianSalePrice": 507500,
+      "MedianListPrice": 527000,
+      "HomesSold": 23,
+      "PendingSales": 2,
+      "NewListings": 20,
+      "Inventory": 48
+    },
+    {
+      "Date": "2016-02-29",
+      "zhvi": 441754,
+      "MedianSalePrice": 507500,
+      "MedianListPrice": 499450,
+      "HomesSold": 15,
+      "PendingSales": 1,
+      "NewListings": 20,
+      "Inventory": 45
+    },
+    {
+      "Date": "2016-03-31",
+      "zhvi": 444547,
+      "MedianSalePrice": 517000,
+      "MedianListPrice": 499000,
+      "HomesSold": 11,
+      "PendingSales": 4,
+      "NewListings": 25,
+      "Inventory": 47
+    },
+    {
+      "Date": "2016-04-30",
+      "zhvi": 447857,
+      "MedianSalePrice": 581000,
+      "MedianListPrice": 499000,
+      "HomesSold": 13,
+      "PendingSales": 3,
+      "NewListings": 34,
+      "Inventory": 53
+    },
+    {
+      "Date": "2016-05-31",
+      "zhvi": 450202,
+      "MedianSalePrice": 587500,
+      "MedianListPrice": 499000,
+      "HomesSold": 15,
+      "PendingSales": 3,
+      "NewListings": 41,
+      "Inventory": 56
+    },
+    {
+      "Date": "2016-06-30",
+      "zhvi": 451801,
+      "MedianSalePrice": 552954,
+      "MedianListPrice": 509500,
+      "HomesSold": 17,
+      "PendingSales": 4,
+      "NewListings": 38,
+      "Inventory": 54
+    },
+    {
+      "Date": "2016-07-31",
+      "zhvi": 453639,
+      "MedianSalePrice": 552477,
+      "MedianListPrice": 500000,
+      "HomesSold": 18,
+      "PendingSales": 9,
+      "NewListings": 31,
+      "Inventory": 51
+    },
+    {
+      "Date": "2016-08-31",
+      "zhvi": 456299,
+      "MedianSalePrice": 533000,
+      "MedianListPrice": 459000,
+      "HomesSold": 21,
+      "PendingSales": 3,
+      "NewListings": 31,
+      "Inventory": 50
+    },
+    {
+      "Date": "2016-09-30",
+      "zhvi": 459484,
+      "MedianSalePrice": 475000,
+      "MedianListPrice": 457500,
+      "HomesSold": 27,
+      "PendingSales": 1,
+      "NewListings": 30,
+      "Inventory": 52
+    },
+    {
+      "Date": "2016-10-31",
+      "zhvi": 462249,
+      "MedianSalePrice": 486750,
+      "MedianListPrice": 479000,
+      "HomesSold": 28,
+      "PendingSales": 3,
+      "NewListings": 27,
+      "Inventory": 49
+    },
+    {
+      "Date": "2016-11-30",
+      "zhvi": 464637,
+      "MedianSalePrice": 440000,
+      "MedianListPrice": 582000,
+      "HomesSold": 27,
+      "PendingSales": 3,
+      "NewListings": 15,
+      "Inventory": 33
+    },
+    {
+      "Date": "2016-12-31",
+      "zhvi": 466455,
+      "MedianSalePrice": 380000,
+      "MedianListPrice": 590500,
+      "HomesSold": 28,
+      "PendingSales": 0,
+      "NewListings": 10,
+      "Inventory": 28
+    },
+    {
+      "Date": "2017-01-31",
+      "zhvi": 466497,
+      "MedianSalePrice": 352950,
+      "MedianListPrice": 455000,
+      "HomesSold": 22,
+      "PendingSales": 0,
+      "NewListings": 9,
+      "Inventory": 33
+    },
+    {
+      "Date": "2017-02-28",
+      "zhvi": 465372,
+      "MedianSalePrice": 352950,
+      "MedianListPrice": 477500,
+      "HomesSold": 18,
+      "PendingSales": 0,
+      "NewListings": 16,
+      "Inventory": 38
+    },
+    {
+      "Date": "2017-03-31",
+      "zhvi": 464355,
+      "MedianSalePrice": 405000,
+      "MedianListPrice": 545000,
+      "HomesSold": 9,
+      "PendingSales": 0,
+      "NewListings": 25,
+      "Inventory": 43
+    },
+    {
+      "Date": "2017-04-30",
+      "zhvi": 464517,
+      "MedianSalePrice": 405000,
+      "MedianListPrice": 557500,
+      "HomesSold": 11,
+      "PendingSales": 3,
+      "NewListings": 30,
+      "Inventory": 47
+    },
+    {
+      "Date": "2017-05-31",
+      "zhvi": 465191,
+      "MedianSalePrice": 417000,
+      "MedianListPrice": 596000,
+      "HomesSold": 12,
+      "PendingSales": 5,
+      "NewListings": 38,
+      "Inventory": 57
+    },
+    {
+      "Date": "2017-06-30",
+      "zhvi": 465079,
+      "MedianSalePrice": 507500,
+      "MedianListPrice": 574900,
+      "HomesSold": 14,
+      "PendingSales": 4,
+      "NewListings": 47,
+      "Inventory": 68
+    },
+    {
+      "Date": "2017-07-31",
+      "zhvi": 465014,
+      "MedianSalePrice": 427500,
+      "MedianListPrice": 527000,
+      "HomesSold": 17,
+      "PendingSales": 6,
+      "NewListings": 42,
+      "Inventory": 62
+    },
+    {
+      "Date": "2017-08-31",
+      "zhvi": 465286,
+      "MedianSalePrice": 434500,
+      "MedianListPrice": 477450,
+      "HomesSold": 24,
+      "PendingSales": 4,
+      "NewListings": 36,
+      "Inventory": 64
+    },
+    {
+      "Date": "2017-09-30",
+      "zhvi": 466683,
+      "MedianSalePrice": 427500,
+      "MedianListPrice": 475000,
+      "HomesSold": 25,
+      "PendingSales": 3,
+      "NewListings": 21,
+      "Inventory": 59
+    },
+    {
+      "Date": "2017-10-31",
+      "zhvi": 467785,
+      "MedianSalePrice": 413500,
+      "MedianListPrice": 489900,
+      "HomesSold": 24,
+      "PendingSales": 1,
+      "NewListings": 22,
+      "Inventory": 51
+    },
+    {
+      "Date": "2017-11-30",
+      "zhvi": 468526,
+      "MedianSalePrice": 442500,
+      "MedianListPrice": 494450,
+      "HomesSold": 18,
+      "PendingSales": 1,
+      "NewListings": 14,
+      "Inventory": 44
+    },
+    {
+      "Date": "2017-12-31",
+      "zhvi": 469702,
+      "MedianSalePrice": 497500,
+      "MedianListPrice": 489000,
+      "HomesSold": 20,
+      "PendingSales": 3,
+      "NewListings": 9,
+      "Inventory": 31
+    },
+    {
+      "Date": "2018-01-31",
+      "zhvi": 472117,
+      "MedianSalePrice": 545400,
+      "MedianListPrice": 514000,
+      "HomesSold": 16,
+      "PendingSales": 1,
+      "NewListings": 8,
+      "Inventory": 31
+    },
+    {
+      "Date": "2018-02-28",
+      "zhvi": 475186,
+      "MedianSalePrice": 500000,
+      "MedianListPrice": 540000,
+      "HomesSold": 15,
+      "PendingSales": 0,
+      "NewListings": 19,
+      "Inventory": 36
+    },
+    {
+      "Date": "2018-03-31",
+      "zhvi": 478495,
+      "MedianSalePrice": 480750,
+      "MedianListPrice": 539500,
+      "HomesSold": 12,
+      "PendingSales": 4,
+      "NewListings": 26,
+      "Inventory": 33
+    },
+    {
+      "Date": "2018-04-30",
+      "zhvi": 481076,
+      "MedianSalePrice": 549900,
+      "MedianListPrice": 573500,
+      "HomesSold": 13,
+      "PendingSales": 4,
+      "NewListings": 44,
+      "Inventory": 51
+    },
+    {
+      "Date": "2018-05-31",
+      "zhvi": 483513,
+      "MedianSalePrice": 485000,
+      "MedianListPrice": 557500,
+      "HomesSold": 17,
+      "PendingSales": 4,
+      "NewListings": 36,
+      "Inventory": 49
+    },
+    {
+      "Date": "2018-06-30",
+      "zhvi": 484395,
+      "MedianSalePrice": 507000,
+      "MedianListPrice": 550000,
+      "HomesSold": 20,
+      "PendingSales": 5,
+      "NewListings": 37,
+      "Inventory": 47
+    },
+    {
+      "Date": "2018-07-31",
+      "zhvi": 485749,
+      "MedianSalePrice": 497500,
+      "MedianListPrice": 534500,
+      "HomesSold": 24,
+      "PendingSales": 5,
+      "NewListings": 20,
+      "Inventory": 45
+    },
+    {
+      "Date": "2018-08-31",
+      "zhvi": 487191,
+      "MedianSalePrice": 525000,
+      "MedianListPrice": 519000,
+      "HomesSold": 27,
+      "PendingSales": 2,
+      "NewListings": 21,
+      "Inventory": 40
+    },
+    {
+      "Date": "2018-09-30",
+      "zhvi": 488301,
+      "MedianSalePrice": 516000,
+      "MedianListPrice": 597500,
+      "HomesSold": 26,
+      "PendingSales": 2,
+      "NewListings": 24,
+      "Inventory": 43
+    },
+    {
+      "Date": "2018-10-31",
+      "zhvi": 488211,
+      "MedianSalePrice": 520000,
+      "MedianListPrice": 550000,
+      "HomesSold": 25,
+      "PendingSales": 6,
+      "NewListings": 25,
+      "Inventory": 35
+    },
+    {
+      "Date": "2018-11-30",
+      "zhvi": 488074,
+      "MedianSalePrice": 505000,
+      "MedianListPrice": 512000,
+      "HomesSold": 22,
+      "PendingSales": 5,
+      "NewListings": 28,
+      "Inventory": 33
+    },
+    {
+      "Date": "2018-12-31",
+      "zhvi": 489395,
+      "MedianSalePrice": 509500,
+      "MedianListPrice": 434450,
+      "HomesSold": 20,
+      "PendingSales": 0,
+      "NewListings": 18,
+      "Inventory": 30
+    },
+    {
+      "Date": "2019-01-31",
+      "zhvi": 490859,
+      "MedianSalePrice": 460000,
+      "MedianListPrice": 391000,
+      "HomesSold": 19,
+      "PendingSales": 1,
+      "NewListings": 16,
+      "Inventory": 29
+    },
+    {
+      "Date": "2019-02-28",
+      "zhvi": 492148,
+      "MedianSalePrice": 450000,
+      "MedianListPrice": 473000,
+      "HomesSold": 15,
+      "PendingSales": 1,
+      "NewListings": 12,
+      "Inventory": 30
+    },
+    {
+      "Date": "2019-03-31",
+      "zhvi": 493172,
+      "MedianSalePrice": 426000,
+      "MedianListPrice": 549000,
+      "HomesSold": 11,
+      "PendingSales": 1,
+      "NewListings": 21,
+      "Inventory": 36
+    },
+    {
+      "Date": "2019-04-30",
+      "zhvi": 494560,
+      "MedianSalePrice": 437500,
+      "MedianListPrice": 586000,
+      "HomesSold": 8,
+      "PendingSales": 2,
+      "NewListings": 27,
+      "Inventory": 41
+    },
+    {
+      "Date": "2019-05-31",
+      "zhvi": 495787,
+      "MedianSalePrice": 540000,
+      "MedianListPrice": 499250,
+      "HomesSold": 7,
+      "PendingSales": 9,
+      "NewListings": 34,
+      "Inventory": 41
+    },
+    {
+      "Date": "2019-06-30",
+      "zhvi": 496737,
+      "MedianSalePrice": 535000,
+      "MedianListPrice": 495000,
+      "HomesSold": 13,
+      "PendingSales": 6,
+      "NewListings": 39,
+      "Inventory": 44
+    },
+    {
+      "Date": "2019-07-31",
+      "zhvi": 497935,
+      "MedianSalePrice": 478425,
+      "MedianListPrice": 504000,
+      "HomesSold": 20,
+      "PendingSales": 7,
+      "NewListings": 38,
+      "Inventory": 46
+    },
+    {
+      "Date": "2019-08-31",
+      "zhvi": 498343,
+      "MedianSalePrice": 425000,
+      "MedianListPrice": 594450,
+      "HomesSold": 25,
+      "PendingSales": 4,
+      "NewListings": 34,
+      "Inventory": 46
+    },
+    {
+      "Date": "2019-09-30",
+      "zhvi": 497827,
+      "MedianSalePrice": 457500,
+      "MedianListPrice": 579950,
+      "HomesSold": 23,
+      "PendingSales": 3,
+      "NewListings": 30,
+      "Inventory": 49
+    },
+    {
+      "Date": "2019-10-31",
+      "zhvi": 496788,
+      "MedianSalePrice": 487039,
+      "MedianListPrice": 544500,
+      "HomesSold": 22,
+      "PendingSales": 4,
+      "NewListings": 24,
+      "Inventory": 47
+    },
+    {
+      "Date": "2019-11-30",
+      "zhvi": 496592,
+      "MedianSalePrice": 507200,
+      "MedianListPrice": 497000,
+      "HomesSold": 15,
+      "PendingSales": 2,
+      "NewListings": 18,
+      "Inventory": 39
+    },
+    {
+      "Date": "2019-12-31",
+      "zhvi": 496696,
+      "MedianSalePrice": 479077,
+      "MedianListPrice": 349000,
+      "HomesSold": 13,
+      "PendingSales": 3,
+      "NewListings": 13,
+      "Inventory": 33
+    },
+    {
+      "Date": "2020-01-31",
+      "zhvi": 496720,
+      "MedianSalePrice": 685000,
+      "MedianListPrice": 479000,
+      "HomesSold": 11,
+      "PendingSales": 1,
+      "NewListings": 13,
+      "Inventory": 28
+    },
+    {
+      "Date": "2020-02-29",
+      "zhvi": 497164,
+      "MedianSalePrice": 680000,
+      "MedianListPrice": 479000,
+      "HomesSold": 15,
+      "PendingSales": 3,
+      "NewListings": 13,
+      "Inventory": 23
+    },
+    {
+      "Date": "2020-03-31",
+      "zhvi": 498915,
+      "MedianSalePrice": 501250,
+      "MedianListPrice": 479000,
+      "HomesSold": 20,
+      "PendingSales": 3,
+      "NewListings": 13,
+      "Inventory": 24
+    },
+    {
+      "Date": "2020-04-30",
+      "zhvi": 500810,
+      "MedianSalePrice": 446650,
+      "MedianListPrice": 517000,
+      "HomesSold": 16,
+      "PendingSales": 0,
+      "NewListings": 12,
+      "Inventory": 23
+    },
+    {
+      "Date": "2020-05-31",
+      "zhvi": 500424,
+      "MedianSalePrice": 476650,
+      "MedianListPrice": 557000,
+      "HomesSold": 14,
+      "PendingSales": 3,
+      "NewListings": 20,
+      "Inventory": 28
+    },
+    {
+      "Date": "2020-06-30",
+      "zhvi": 498004,
+      "MedianSalePrice": 387500,
+      "MedianListPrice": 599000,
+      "HomesSold": 8,
+      "PendingSales": 5,
+      "NewListings": 31,
+      "Inventory": 32
+    },
+    {
+      "Date": "2020-07-31",
+      "zhvi": 496687,
+      "MedianSalePrice": 487300,
+      "MedianListPrice": 577000,
+      "HomesSold": 14,
+      "PendingSales": 9,
+      "NewListings": 47,
+      "Inventory": 39
+    },
+    {
+      "Date": "2020-08-31",
+      "zhvi": 498769,
+      "MedianSalePrice": 531050,
+      "MedianListPrice": 631500,
+      "HomesSold": 18,
+      "PendingSales": 12,
+      "NewListings": 45,
+      "Inventory": 31
+    },
+    {
+      "Date": "2020-09-30",
+      "zhvi": 504891,
+      "MedianSalePrice": 494600,
+      "MedianListPrice": 599000,
+      "HomesSold": 25,
+      "PendingSales": 6,
+      "NewListings": 41,
+      "Inventory": 34
+    },
+    {
+      "Date": "2020-10-31",
+      "zhvi": 513235,
+      "MedianSalePrice": 560000,
+      "MedianListPrice": 712000,
+      "HomesSold": 32,
+      "PendingSales": 6,
+      "NewListings": 30,
+      "Inventory": 31
+    },
+    {
+      "Date": "2020-11-30",
+      "zhvi": 522706,
+      "MedianSalePrice": 586000,
+      "MedianListPrice": 599000,
+      "HomesSold": 32,
+      "PendingSales": 4,
+      "NewListings": 25,
+      "Inventory": 27
+    },
+    {
+      "Date": "2020-12-31",
+      "zhvi": 531371,
+      "MedianSalePrice": 633500,
+      "MedianListPrice": 679000,
+      "HomesSold": 28,
+      "PendingSales": 2,
+      "NewListings": 15,
+      "Inventory": 26
+    },
+    {
+      "Date": "2021-01-31",
+      "zhvi": 538395,
+      "MedianSalePrice": 602250,
+      "MedianListPrice": 577500,
+      "HomesSold": 20,
+      "PendingSales": 0,
+      "NewListings": 12,
+      "Inventory": 27
+    },
+    {
+      "Date": "2021-02-28",
+      "zhvi": 545712,
+      "MedianSalePrice": 534500,
+      "MedianListPrice": 537500,
+      "HomesSold": 18,
+      "PendingSales": 4,
+      "NewListings": 12,
+      "Inventory": 20
+    },
+    {
+      "Date": "2021-03-31",
+      "zhvi": 552471,
+      "MedianSalePrice": 545000,
+      "MedianListPrice": 629000,
+      "HomesSold": 17,
+      "PendingSales": 4,
+      "NewListings": 15,
+      "Inventory": 19
+    },
+    {
+      "Date": "2021-04-30",
+      "zhvi": 559958,
+      "MedianSalePrice": 557610,
+      "MedianListPrice": 585000,
+      "HomesSold": 20,
+      "PendingSales": 6,
+      "NewListings": 21,
+      "Inventory": 20
+    },
+    {
+      "Date": "2021-05-31",
+      "zhvi": 567054,
+      "MedianSalePrice": 615110,
+      "MedianListPrice": 634000,
+      "HomesSold": 20,
+      "PendingSales": 4,
+      "NewListings": 22,
+      "Inventory": 18
+    },
+    {
+      "Date": "2021-06-30",
+      "zhvi": 574232,
+      "MedianSalePrice": 566360,
+      "MedianListPrice": 595000,
+      "HomesSold": 22,
+      "PendingSales": 4,
+      "NewListings": 27,
+      "Inventory": 24
+    },
+    {
+      "Date": "2021-07-31",
+      "zhvi": 578755,
+      "MedianSalePrice": 554500,
+      "MedianListPrice": 665000,
+      "HomesSold": 21,
+      "PendingSales": 8,
+      "NewListings": 27,
+      "Inventory": 27
+    },
+    {
+      "Date": "2021-08-31",
+      "zhvi": 581694,
+      "MedianSalePrice": 562500,
+      "MedianListPrice": 610000,
+      "HomesSold": 21,
+      "PendingSales": 8,
+      "NewListings": 27,
+      "Inventory": 20
+    },
+    {
+      "Date": "2021-09-30",
+      "zhvi": 582968,
+      "MedianSalePrice": 578500,
+      "MedianListPrice": 665000,
+      "HomesSold": 19,
+      "PendingSales": 2,
+      "NewListings": 27,
+      "Inventory": 23
+    },
+    {
+      "Date": "2021-10-31",
+      "zhvi": 585628,
+      "MedianSalePrice": 599000,
+      "MedianListPrice": 619000,
+      "HomesSold": 15,
+      "PendingSales": 6,
+      "NewListings": 17,
+      "Inventory": 15
+    },
+    {
+      "Date": "2021-11-30",
+      "zhvi": 588291,
+      "MedianSalePrice": 600000,
+      "MedianListPrice": 965000,
+      "HomesSold": 19,
+      "PendingSales": 2,
+      "NewListings": 19,
+      "Inventory": 18
+    },
+    {
+      "Date": "2021-12-31",
+      "zhvi": 591922,
+      "MedianSalePrice": 584000,
+      "MedianListPrice": 638500,
+      "HomesSold": 22,
+      "PendingSales": 3,
+      "NewListings": 10,
+      "Inventory": 14
+    },
+    {
+      "Date": "2022-01-31",
+      "zhvi": 595208,
+      "MedianSalePrice": 614500,
+      "MedianListPrice": 638500,
+      "HomesSold": 24,
+      "PendingSales": 7,
+      "NewListings": 12,
+      "Inventory": 9
+    },
+    {
+      "Date": "2022-02-28",
+      "zhvi": 598577,
+      "MedianSalePrice": 622000,
+      "MedianListPrice": 579000,
+      "HomesSold": 18,
+      "PendingSales": 1,
+      "NewListings": 12,
+      "Inventory": 12
+    },
+    {
+      "Date": "2022-03-31",
+      "zhvi": 604018,
+      "MedianSalePrice": 857500,
+      "MedianListPrice": 614900,
+      "HomesSold": 18,
+      "PendingSales": 7,
+      "NewListings": 21,
+      "Inventory": 13
+    },
+    {
+      "Date": "2022-04-30",
+      "zhvi": 611701,
+      "MedianSalePrice": 925000,
+      "MedianListPrice": 695000,
+      "HomesSold": 14,
+      "PendingSales": 5,
+      "NewListings": 27,
+      "Inventory": 16
+    },
+    {
+      "Date": "2022-05-31",
+      "zhvi": 620947,
+      "MedianSalePrice": 915000,
+      "MedianListPrice": 685000,
+      "HomesSold": 21,
+      "PendingSales": 6,
+      "NewListings": 30,
+      "Inventory": 18
+    },
+    {
+      "Date": "2022-06-30",
+      "zhvi": 630364,
+      "MedianSalePrice": 735750,
+      "MedianListPrice": 682000,
+      "HomesSold": 22,
+      "PendingSales": 8,
+      "NewListings": 28,
+      "Inventory": 19
+    },
+    {
+      "Date": "2022-07-31",
+      "zhvi": 636781,
+      "MedianSalePrice": 637500,
+      "MedianListPrice": 642000,
+      "HomesSold": 24,
+      "PendingSales": 2,
+      "NewListings": 26,
+      "Inventory": 25
+    },
+    {
+      "Date": "2022-08-31",
+      "zhvi": 639160,
+      "MedianSalePrice": 680000,
+      "MedianListPrice": 622500,
+      "HomesSold": 22,
+      "PendingSales": 4,
+      "NewListings": 20,
+      "Inventory": 21
+    },
+    {
+      "Date": "2022-09-30",
+      "zhvi": 637658,
+      "MedianSalePrice": 625000,
+      "MedianListPrice": 517500,
+      "HomesSold": 17,
+      "PendingSales": 5,
+      "NewListings": 14,
+      "Inventory": 15
+    },
+    {
+      "Date": "2022-10-31",
+      "zhvi": 636098,
+      "MedianSalePrice": 657500,
+      "MedianListPrice": 534000,
+      "HomesSold": 14,
+      "PendingSales": 0,
+      "NewListings": 14,
+      "Inventory": 21
+    },
+    {
+      "Date": "2022-11-30",
+      "zhvi": 635792,
+      "MedianSalePrice": 602500,
+      "MedianListPrice": 544000,
+      "HomesSold": 12,
+      "PendingSales": 1,
+      "NewListings": 14,
+      "Inventory": 17
+    },
+    {
+      "Date": "2022-12-31",
+      "zhvi": 635248,
+      "MedianSalePrice": 615000,
+      "MedianListPrice": 544000,
+      "HomesSold": 13,
+      "PendingSales": 2,
+      "NewListings": 14,
+      "Inventory": 17
+    },
+    {
+      "Date": "2023-01-31",
+      "zhvi": 632980,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2023-02-28",
+      "zhvi": 631863,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2023-03-31",
+      "zhvi": 632281,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    },
+    {
+      "Date": "2023-04-30",
+      "zhvi": 635687,
+      "MedianSalePrice": "NULL",
+      "MedianListPrice": "NULL",
+      "HomesSold": "NULL",
+      "PendingSales": "NULL",
+      "NewListings": "NULL",
+      "Inventory": "NULL"
+    }
+  ]

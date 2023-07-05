@@ -11,6 +11,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  background-color: rgb(59, 59, 59);
 }
 
 
@@ -61,26 +63,62 @@ li {
   padding: 10px;
 }
 
+
+.apexcharts-gridline {
+  stroke: black !important;
+}
+
+.apexcharts-xaxis-tick, .apexcharts-yaxis-tick {
+  stroke: black !important;
+}
+
+.apexcharts-tooltip.apexcharts-active {
+  border-color: black !important;
+}
+
 @media screen and (min-width: 768px) {
   #ChartDashboard {
-    position: relative;
-    justify-content: center;
+    display: grid;
+    height: 100%;
+    width: 100%;
+
+    grid-template-rows: 10%, 45%, 45%;
+    grid-template-columns: repeat(4,25%);
+  }
+
+  #SearchDemo {
+    height: 100px;
+    grid-row: 1;
+    grid-column: span 4;
   }
 
   #ZillowChart {
-    margin:auto;
-    margin-bottom: 30px;
-    margin-top: 20px;
-    width: 60%;
+    margin: 0.5rem;
+    background-color: rgb(174, 174, 174);
+    grid-column: span 2;
+    grid-row: 2 / 4;
+  }
+
+  #RedfinCharts {
+    display: inline;
+    grid-column: 3;
+    grid-row: span 2;
   }
 
   #PriceChart {
-    width: 30%;
-    margin-right: 40px;
-    margin-left: -20px;
+    background-color: rgb(174, 174, 174);
+    margin: 0.5rem 0rem 0.5rem 0rem;
   }
   #MarketChart {
-    width: 30%;
+    background-color: rgb(174, 174, 174);
+    margin: 0rem 0rem 0.5rem 0rem;
+  }
+  #infoPane {
+    background-color: rgb(174, 174, 174);
+    grid-row: span 2;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
   }
 }
 
@@ -89,15 +127,13 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100svw;
   }
-  #ZillowChart {
-    width: 100%;
-  }
-  #PriceChart {
-    width: 50%;
-  }
-  #MarketChart {
-    width: 100%;
+
+  #SearchDemo {
+    width: 100svw;
+    height: 100px;
+    background-color: blue;
   }
 }
 

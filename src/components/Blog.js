@@ -39,16 +39,33 @@ const Blog = () => {
     y: item.HomesSold === 'NULL' ? null : parseInt(item.HomesSold),
   }));
 
+
+
+  const test_preds = [
+    { x: new Date(2023, 5, 10).getTime(), y: 635000},
+    { x: new Date(2023, 7, 10).getTime(), y: 650000},
+    { x: new Date(2024, 4, 10).getTime(), y: 690000},
+  ];
+
+  console.log(zhvi_data);
+
   const [chart1Options, setChart1Options] = useState({
     series: [
       {
         name: 'ZHVI',
         data: zhvi_data,
+      },
+      {
+        name: 'Predictions',
+        data: test_preds,
       }
     ],
     title: {
       text: "Zillow Home Value Index",
       align: "center",
+    },
+    legend: {
+      horizontalAlign: 'left',
     },
     xaxis: {
       type: 'datetime',
@@ -220,6 +237,7 @@ const Blog = () => {
 
   return (
     <div id="ChartDashboard">
+      <div id="SearchDemo"> </div>
       <div id="ZillowChart">
         <Chart
           options={chart1Options}
@@ -233,8 +251,6 @@ const Blog = () => {
           options={chart2Options}
           series={chart2Options.series}
           type="line"
-          height={350}
-          width={500}
         />
         </div>
         <div id="MarketChart"> 
@@ -242,11 +258,10 @@ const Blog = () => {
           options={chart3Options}
           series={chart3Options.series}
           type="line"
-          height={350}
-          width={500}
         />
         </div>
       </div>
+      <div id="infoPane">WIP</div>
     </div>
   );
 };

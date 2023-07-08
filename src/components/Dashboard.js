@@ -4,41 +4,8 @@ import { timeseries } from './Home';
 var demo_data = require("../assets/dashboard_demo_data.json");
 
 export function Dashboard() {
-  // Extract data for ZHVI chart
-  const zhvi_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.zhvi === 'NULL' ? null : parseInt(item.zhvi),
-  }));
 
-  // Extract data for Median List Price chart
-  const list_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.MedianListPrice === 'NULL' ? null : parseInt(item.MedianListPrice),
-  }));
-
-  // Extract data for Median Sale Price chart
-  const sale_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.MedianSalePrice === 'NULL' ? null : parseInt(item.MedianSalePrice),
-  }));
-
-  // Extract data for Inventory chart
-  const inventory_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.Inventory === 'NULL' ? null : parseInt(item.Inventory),
-  }));
-
-  // Extract data for New Listings chart
-  const new_listings_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.NewListings === 'NULL' ? null : parseInt(item.NewListings),
-  }));
-
-  // Extract data for Homes Sold chart
-  const homes_data = demo_data.map(item => ({
-    x: new Date(item.Date).getTime(),
-    y: item.HomesSold === 'NULL' ? null : parseInt(item.HomesSold),
-  }));
+  const ts = useContext(timeseries);
 
   // demo predictions for ZHVI chart
   const test_preds = [
@@ -47,18 +14,11 @@ export function Dashboard() {
     { x: new Date(2024, 4, 10).getTime(), y: 690000},
   ];
 
-
-
-
   const [chart1Options, setChart1Options] = useState({
     series: [
       {
         name: 'ZHVI',
-        data: zhvi_data,
-      },
-      {
-        name: 'Predictions',
-        data: test_preds,
+        data: ts.zhvi,
       }
     ],
     title: {
@@ -115,15 +75,17 @@ export function Dashboard() {
     },
   });
 
+  console.log("Null values in median list:", typeof(ts.list.slice(-1)[0].y));
+
   const [chart2Options, setChart2Options] = useState({
     series: [
       {
         name: 'Median List',
-        data: list_data.slice(-100), // Selecting the last 100 elements
+        data: ts.list.slice(-100), // Selecting the last 100 elements
       },
       {
         name: 'Median Sale',
-        data: sale_data.slice(-100), // Selecting the last 100 elements
+        data: ts.sale.slice(-100), // Selecting the last 100 elements
       },
     ],
     title: {
@@ -181,15 +143,15 @@ export function Dashboard() {
     series: [
       {
         name: 'Inventory',
-        data: inventory_data.slice(-100), // Selecting the last 100 elements
+        data: ts.inventory.slice(-100), // Selecting the last 100 elements
       },
       {
         name: 'New Listings',
-        data: new_listings_data.slice(-100), // Selecting the last 100 elements
+        data: ts.listings.slice(-100), // Selecting the last 100 elements
       },
       {
         name: 'Homes Sold',
-        data: homes_data.slice(-100), // Selecting the last 100 elements
+        data: ts.homes.slice(-100), // Selecting the last 100 elements
       },
     ],
     title: {

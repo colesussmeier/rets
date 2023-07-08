@@ -1,5 +1,4 @@
 import React, { useState, useEffect, createContext } from "react";
-import LineChart from "./LineChart";
 import { API } from 'aws-amplify';
 import Dashboard from "./Dashboard";
 var locations = require("../assets/locations.json")
@@ -11,8 +10,13 @@ const path = '/zips';
 export const timeseries = createContext();
 
 
-const ts = {"labels": [],
-            "zhvi": [],
+const ts = {"zhvi": {},
+            "list": {},
+            "sale": {},
+            "inventory": {},
+            "listings": {},
+            "homes": {},
+            //"zhvf": {},
             "name": ""}
 
 function Home() {
@@ -26,13 +30,53 @@ function Home() {
 
     useEffect(() => {
         try {
-            ts.labels = []
-            ts.zhvi = [] 
-             for (const obj of zips.slice(-1)[0]) {
-                ts.labels.push(obj.Date.slice(0,10));
-                ts.zhvi.push(obj.zhvi);
-                console.log(obj) 
-            }
+            ts.zhvi = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.zhvi);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
+
+            ts.list = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.MedianListPrice);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
+
+            ts.sale = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.MedianSalePrice);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
+
+            ts.inventory = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.Inventory);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
+
+            ts.listings = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.NewListings);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
+
+            ts.homes = zips.slice(-1)[0].map(item => {
+                const parsed = parseInt(item.HomesSold);
+                return {
+                    x: new Date(item.Date).getTime(),
+                    y: isNaN(parsed) ? null : parsed,
+                }
+              });
 
             setRender(true)
             }

@@ -28,54 +28,8 @@ ChartJS.register(
   Legend
 );
 
-export const options = {
-  scaleShowValues: true,
-  responsive: true,
-  mainAspectRatio: false,
-  aspectRatio: 1.5,
-  scales: {
-    xAxes: [{
-      ticks: {
-        autoSkip: true
-      }
-    }]
-  },
-  plugins: {
-    legend: {
-      position: 'top',
-    },
-    title: {
-      display: true,
-      text: 'Zillow Home Value Index',
-    },
-  },
-};
-
-//const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
 let labels = []
 let zhvi = []
-
-
-/*
-for (const obj of cs) {
-  labels.push(obj.Date);
-  zhvi.push(obj.ZHVI)
-}
-*/
-
-/*
-export const data = {
-  labels,
-  datasets: [
-    {
-      label: 'ZHVI',
-      data: zhvi,
-      borderColor: 'rgb(255, 99, 132)',
-      backgroundColor: 'rgba(255, 99, 132, 0.5)',
-    },
-  ],
-};
-*/
 
 export function LineChart() {
   const ts = useContext(timeseries);

@@ -1,7 +1,9 @@
 import React, { useState, useEffect, createContext } from "react";
 import LineChart from "./LineChart";
 import { API } from 'aws-amplify';
+import Dashboard from "./Dashboard";
 var locations = require("../assets/locations.json")
+
 
 const myAPI = "retsapi";
 const path = '/zips'; 
@@ -67,43 +69,41 @@ function Home() {
     return ( 
         <div>
             <div id="searchSpace">
-                <div id="search">
-                    <input 
-                        id="searchBar"
-                        size="24"
-                        type="text"
-                        placeholder="Search locations"
-                        onChange={handleChange}
-                        value={input}/>
-
-                    <button onClick={() => onSearch(input)}> Search </button>
-                
-                    <div id="dropdown">
-                        {locations.filter(item => {
-                            const searchTerm = input.toLowerCase();
-                            const location = item.Location.toLowerCase();
-
-                            return (
-                                searchTerm && 
-                                location.startsWith(searchTerm) &&
-                                Location !== searchTerm
-                            );
-                        })
-                        .slice(0, 10)
-                        .map((item) => ( 
-                            <div className="dropdown-row"
-                            onClick={() => onSearch(item.Location)}
-                            key={item.ZipCode}
-                            >
-                                {item.Location}  
-                            </div>))}
-                    </div>
-                </div>
-            </div>
+             <div id="search">
+                 <input 
+                     id="searchBar"
+                     size="24"
+                     type="text"
+                     placeholder="Search locations"
+                     onChange={handleChange}
+                     value={input}/>
+             
+                 <div id="dropdown">
+                     {locations.filter(item => {
+                         const searchTerm = input.toLowerCase();
+                         const location = item.Location.toLowerCase();
+                         return (
+                             searchTerm && 
+                             location.startsWith(searchTerm) &&
+                             Location !== searchTerm
+                         );
+                     })
+                     .slice(0, 10)
+                     .map((item) => ( 
+                         <div className="dropdown-row"
+                         onClick={() => onSearch(item.Location)}
+                         key={item.ZipCode}
+                         >
+                             {item.Location}  
+                         </div>))}
+                 </div>
+                 </div>
+                 </div>
+                 <div id="titleSpace"><h1>{ts.name}</h1></div>
             <div id="chartSpace">
                 <div id="chart"> 
                     <timeseries.Provider value = {ts}>
-                        {isRendered && <LineChart/>}
+                        {isRendered && <Dashboard/>}
                     </timeseries.Provider>
                 </div>
             </div>  

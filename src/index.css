@@ -63,7 +63,13 @@ li {
 #titleSpace {
   display: flex;
   justify-content: center;
+  margin-top: 0%;
   margin-bottom: 0.5%;
+  height: 4rem;
+}
+
+#titleSpace h1 {
+  color:aliceblue;
 }
 
 .apexcharts-gridline {
@@ -81,40 +87,39 @@ li {
 @media screen and (min-width: 768px) {
   #ChartDashboard {
     display: grid;
-    height: 100%;
-    width: 100%;
-
     grid-template-rows: 10%, 45%, 45%;
     grid-template-columns: repeat(4,25%);
-
-    z-index: 1;
   }
 
   #ZillowChart {
     margin: 0.5rem;
     background-color: rgb(174, 174, 174);
+    border: 3px solid transparent;
+    border-radius: 5px;
+    padding-right: 10px;
     grid-column: span 2;
     grid-row: 1 / 3;
-    z-index: 1;
   }
 
   #RedfinCharts {
     display: inline;
     grid-column: 3;
     grid-row: span 2;
-    z-index: 0;
   }
 
   #PriceChart {
     background-color: rgb(174, 174, 174);
+    border-radius: 5px;
     margin: 0.5rem 0rem 0.5rem 0rem;
   }
   #MarketChart {
     background-color: rgb(174, 174, 174);
+    border-radius: 5px;
     margin: 0rem 0rem 0.5rem 0rem;
   }
   #infoPane {
     background-color: rgb(174, 174, 174);
+    border-radius: 5px;
     grid-row: span 2;
     margin: 0.5rem;
     display: flex;

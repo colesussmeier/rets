@@ -41,9 +41,15 @@ export function Dashboard() {
   },
   yaxis: {
     labels: {
-      formatter: function (value) {
-        return '$' + value.toLocaleString('en-US');
-      },
+      formatter: function(value) {
+        if (value >= 1000000) {
+          return `$${(value / 1000000).toFixed(0)}M`;
+        } else if (value >= 1000) {
+          return `$${(value / 1000).toFixed(0)}K`;
+        } else {
+          return `$${value}`;
+        }
+      }
     },
     title: {
       text: 'Price',
@@ -71,6 +77,10 @@ export function Dashboard() {
           download: false,
           zoom: false,
         },
+      },
+      theme: {
+        mode: 'light',
+        palette: 'palette3'
       },
     },
   });
@@ -105,9 +115,15 @@ export function Dashboard() {
   },
   yaxis: {
     labels: {
-      formatter: function (value) {
-        return '$' + value.toLocaleString('en-US');
-      },
+      formatter: function(value) {
+        if (value >= 1000000) {
+          return `$${(value / 1000000).toFixed(0)}M`;
+        } else if (value >= 1000) {
+          return `$${(value / 1000).toFixed(0)}K`;
+        } else {
+          return `$${value}`;
+        }
+      }
     },
     title: {
       text: 'Price',

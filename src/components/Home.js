@@ -150,7 +150,10 @@ function Home() {
                         {isRendered && <Dashboard/>}
                     </timeseries.Provider>
                 </div>
-            </div>  
+            </div> 
+            <div id="heroSection">
+                <div id="leftHero"> </div>
+                <div id="rightHero"> </div></div> 
         </div>
     )
 }

@@ -111,6 +111,11 @@ export function Dashboard() {
           fontWeight: 600,
           cssClass: 'apexcharts-xaxis-title',
         },
+        labels: {
+          style: {
+            colors: '#000000',
+          }
+        },
     },
   },
   yaxis: {
@@ -211,6 +216,8 @@ export function Dashboard() {
     },
   });
 
+  console.log(ts.zhvi.slice(-2)[0].y / (ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-2)[0].y));
+
   return (
     <div id="ChartDashboard">
       <div id="ZillowChart">
@@ -236,7 +243,8 @@ export function Dashboard() {
         />
         </div>
       </div>
-      <div id="infoPane"><h1>YOY %: </h1></div>
+      <div id="infoPane"><h1>ZHVI YoY: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-13)[0].y) / ts.zhvi.slice(-13)[0].y * 10000) / 100}%</h1>
+      <h1>ZHVI MoM: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-2)[0].y) / ts.zhvi.slice(-2)[0].y * 10000) / 100}%</h1></div>
     </div>
   );
 }

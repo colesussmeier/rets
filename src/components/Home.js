@@ -1,7 +1,10 @@
 import React, { useState, useEffect, createContext } from "react";
 import { API } from 'aws-amplify';
 import Dashboard from "./Dashboard";
+
 var locations = require("../assets/locations.json")
+
+
 
 
 const myAPI = "retsapi";
@@ -30,6 +33,7 @@ function Home() {
 
     useEffect(() => {
         try {
+            console.log(zips);
             ts.zhvi = zips.slice(-1)[0].map(item => {
                 const parsed = parseInt(item.zhvi);
                 return {
@@ -111,7 +115,7 @@ function Home() {
       };
 
     return ( 
-        <div>
+        <div id={!isRendered ? "backgroundContainer" :  "backgroundContainerMobileAdjustment"}>
             <div id="searchSpace">
              <div id="search">
                  <input 
@@ -132,7 +136,7 @@ function Home() {
                              Location !== searchTerm
                          );
                      })
-                     .slice(0, 10)
+                     .slice(0, 5)
                      .map((item) => ( 
                          <div className="dropdown-row"
                          onClick={() => onSearch(item.Location)}
@@ -140,10 +144,16 @@ function Home() {
                          >
                              {item.Location}  
                          </div>))}
+                        </div>
+                     </div>
                  </div>
-                 </div>
-                 </div>
-                 <div id="titleSpace"><h1>{ts.name}</h1></div>
+                 {!isRendered &&
+                 <div id="hero">
+                    <h1 id ="heroTitle">Real Estate Time Series</h1>
+                    <p id="heroText">Get access to public timeseries data for real estate market research. All timeseries data is monthly and searchable by zip code.</p>
+                    <p id="heroCall">Search for a location above to get started</p>
+                 </div> }
+                 <div id="titleSpace"><h1>{isRendered && ts.name}</h1></div>
             <div id="chartSpace">
                 <div id="chart"> 
                     <timeseries.Provider value = {ts}>
@@ -151,9 +161,6 @@ function Home() {
                     </timeseries.Provider>
                 </div>
             </div> 
-            <div id="heroSection">
-                <div id="leftHero"> </div>
-                <div id="rightHero"> </div></div> 
         </div>
     )
 }

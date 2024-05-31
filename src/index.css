@@ -1,18 +1,13 @@
-@font-face {
-  font-family: "SilianRail";
-  src: local("SilianRail"),
-    url("./assets/SilianRail.otf") format("otf");
-}
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Silian Rail', 'Segoe UI', 'Roboto', 'Oxygen', 
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: 'Maven Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
-  background-color: rgb(59, 59, 59);
+  background: #838486;
 }
 
 
@@ -21,6 +16,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#backgroundContainer {
+  background-image: url('.//components/images/winterhouse.png'); /* Adjust the path based on your folder structure */
+  background-size: cover; /* Adjust as needed */
+  background-position: center bottom; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  height: 100vh;
+}
+
+#backgroundContainerMobileAdjustment {
+  background-image: url('.//components/images/winterhouse.png'); /* Adjust the path based on your folder structure */
+  background-size: cover; /* Adjust as needed */
+  background-position: center bottom; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  height: 100vh;
+}
+
+
+#hero {
+  width: 50rem;
+  height: 25rem;
+  flex-shrink: 0;
+  margin-top: 5%;
+  margin-left: 2%;
+}
+
+#heroTitle {
+  color: #000;
+  font-family: Maven Pro;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.35px;
+}
+
+#heroText {
+  color: #232323;
+  font-family: Maven Pro;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 154.023%; /* 55.448px */
+}
+
+#heroCall {
+  color: #F3982D;
+  font-family: Maven Pro;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+
 
 #searchSpace {
   padding-top: 50px;
@@ -35,6 +85,7 @@ code {
 }
 
 #searchBar {
+  font-family: Maven Pro;
   box-sizing: border-box;
   width: 100%;
   height: 100%;
@@ -47,17 +98,17 @@ li {
 
 #dropdown {
     transition: 0.2s ease-in-out;
-    background-color: blueviolet;
 }
 
 .dropdown-row {
   cursor: pointer;
   text-align: start;
-  margin: 2px 0;
+  margin: 1px 0;
   border-bottom: 1px solid rgba(128, 128, 128, 0.596);
-  background-color: aquamarine;
+  background-color: #d7dadfdc;
   z-index: 2;
   position: relative;
+  font-size: 20px;
 }
 
 #titleSpace {
@@ -69,7 +120,7 @@ li {
 }
   
 #titleSpace h1 {
-  color:aliceblue;
+  color:black;
 }
 
 .apexcharts-gridline {
@@ -104,11 +155,6 @@ li {
   margin: 0rem 0rem 0.5rem 0rem;
 }
 
-#heroSection {
-  background-color: black;
-  height: 70svh;
-}
-
 @media screen and (min-width: 768px) {
   #ChartDashboard {
     display: grid;
@@ -130,27 +176,89 @@ li {
   #infoPane {
     background-color: rgb(224, 224, 224);
     border-radius: 5px;
+    justify-content: center;
+    text-align: center;
     grid-row: span 2;
     margin: 0.5rem;
-    justify-content: center;
   }
 }
 
 @media screen and (max-width: 767px) {
+
+  #backgroundContainerMobileAdjustment {
+    background-image: url('.//components/images/winterhouseMobile.png'); /* Adjust the path based on your folder structure */
+    background-position: center bottom; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    height: 100%;
+  }
+
+  #hero {
+    width: 12rem;
+    height: 10rem;
+    flex-shrink: 0;
+    margin-top: 10%;
+    margin-left: 2%;
+  }
+  
+  #heroTitle {
+    padding-top: 5rem;
+    color: #000;
+    font-family: Maven Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.18px;
+  }
+  
+  #heroText {
+    color: #232323;
+    font-family: Maven Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 154.023%; /* 18.483px */
+  }
+  
+  #heroCall {
+    color: #F3982D;
+    font-family: Maven Pro;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  #backgroundContainer {
+    background-image: url('.//components/images/winterhouseMobile.png'); /* Adjust the path based on your folder structure */
+    background-size: cover; /* Adjust as needed */
+    background-position: center bottom; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+  }
+  
+  #backgroundContainerNoImage {
+    height: 95vh;
+  }
+
   #ChartDashboard {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100svw;
+    width: 100%;
+  }
+
+  #RedfinCharts {
+    width: 96.5%;
   }
 
   #titleSpace {
     margin-top: 5%;
     margin-bottom: 0%;
+    color: black;
     text-align:center;
   }
   
-    #titleSpace h1 {
+  #titleSpace h1 {
     margin-top: 0px;
   }
 
@@ -160,9 +268,20 @@ li {
   }
 
   #ZillowChart {
-  padding-right: 0px;
-  margin: 0.5rem 0rem 0rem 0rem;
+    width: 95%;
+    padding-right: 0px;
+    margin: 0.5rem 0rem 0rem 0rem;
   }
+
+  #infoPane {
+    background-color: rgb(224, 224, 224);
+    border: 3px solid transparent;
+    border-radius: 5px;
+    margin: 0px 5px 0px 5px;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+  }    
 
 }
 

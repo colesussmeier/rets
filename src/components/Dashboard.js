@@ -243,8 +243,11 @@ export function Dashboard() {
         />
         </div>
       </div>
-      <div id="infoPane"><h1>ZHVI YoY: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-13)[0].y) / ts.zhvi.slice(-13)[0].y * 10000) / 100}%</h1>
-      <h1>ZHVI MoM: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-2)[0].y) / ts.zhvi.slice(-2)[0].y * 10000) / 100}%</h1></div>
+      <div id="infoPane">
+        <h2>Aggregate Statistics</h2>
+        <br></br>
+        <h3>ZHVI YoY: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-13)[0].y) / ts.zhvi.slice(-13)[0].y * 10000) / 100}%</h3>
+        <h3>ZHVI MoM: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-2)[0].y) / ts.zhvi.slice(-2)[0].y * 10000) / 100}%</h3></div>
     </div>
   );
 }

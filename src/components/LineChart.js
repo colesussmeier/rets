@@ -14,10 +14,6 @@ import { Line } from 'react-chartjs-2';
 import { timeseries } from './Home';
 
 
-
-
-
-
 ChartJS.register(
   CategoryScale,
   LinearScale,

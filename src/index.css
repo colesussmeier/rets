@@ -66,7 +66,7 @@ code {
   font-family: Maven Pro;
   font-size: 37px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   line-height: normal;
 }
 
@@ -212,11 +212,11 @@ li {
   }
   
   #heroText {
-    color: #232323;
+    color: #FCF4E1;
     font-family: Maven Pro;
     font-size: 12px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     line-height: 154.023%; /* 18.483px */
   }
   
@@ -225,7 +225,7 @@ li {
     font-family: Maven Pro;
     font-size: 19px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     line-height: normal;
   }
 

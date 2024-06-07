@@ -22,7 +22,7 @@ export function Dashboard() {
       }
     ],
     title: {
-      text: "Zillow Home Value Index",
+      text: "Zillow Home Value Index (ZHVI)",
       align: "center",
     },
     legend: {
@@ -58,6 +58,7 @@ export function Dashboard() {
         fontWeight: 600,
         cssClass: 'apexcharts-yaxis-title',
       },
+      offsetX: 3,
     },
   },
     tooltip: {
@@ -137,6 +138,7 @@ export function Dashboard() {
         fontWeight: 600,
         cssClass: 'apexcharts-yaxis-title',
       },
+      offsetX: 3,
     },
   },
     tooltip: {
@@ -198,6 +200,7 @@ export function Dashboard() {
         fontWeight: 600,
         cssClass: 'apexcharts-yaxis-title',
       },
+      offsetX: 3,
     },
   },
     tooltip: {
@@ -246,6 +249,7 @@ export function Dashboard() {
       <div id="infoPane">
         <h2>Aggregate Statistics</h2>
         <br></br>
+        <h3>Current ZHVI: ${ts.zhvi.slice(-1)[0].y.toLocaleString()}</h3>
         <h3>ZHVI YoY: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-13)[0].y) / ts.zhvi.slice(-13)[0].y * 10000) / 100}%</h3>
         <h3>ZHVI MoM: {Math.round((ts.zhvi.slice(-1)[0].y - ts.zhvi.slice(-2)[0].y) / ts.zhvi.slice(-2)[0].y * 10000) / 100}%</h3></div>
     </div>
